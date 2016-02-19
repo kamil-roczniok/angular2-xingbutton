@@ -18,21 +18,20 @@
     "login"
   ],
   "author": "alexander.casall@saxsys.de",
-  "license": "Apache2",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/sialcasa/angular2-xingbutton/issues"
   },
   "homepage": "https://github.com/sialcasa/angular2-xingbutton/",
   "devDependencies": {
-    "typescript": "^1.7.5",
+    "typescript": "^1.7.5"
+  },
+  "dependencies": {
+    "angular2": "2.0.0-beta.6",
     "es6-promise": "^3.0.2",
     "es6-shim": "^0.33.3",
     "reflect-metadata": "0.1.2",
     "rxjs": "5.0.0-beta.0",
     "zone.js": "0.5.14"
-  },
-  "dependencies": {
-    "rxjs": "5.0.0-beta.0",
-    "angular2": "2.0.0-beta.6"
   }
 }
