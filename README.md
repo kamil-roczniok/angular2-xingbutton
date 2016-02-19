@@ -1,5 +1,7 @@
 ![xinglong](https://devblog.xing.com/wp-content/uploads/login-with-xing-button-300x58.jpg)
 
+##### npm https://www.npmjs.com/package/xing-login
+
 # Usage
 * To use the Xing-Login you need to generate a consumer key  [here](https://dev.xing.com/plugins/login_with)
 * Then you can use the component like this:
