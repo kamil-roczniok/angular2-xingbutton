@@ -1,1 +1,1 @@
-exports.HelloWorld = require('./lib/xingbutton').XingLogin;
+exports.XingLogin = require('./lib/xingbutton').XingLogin;

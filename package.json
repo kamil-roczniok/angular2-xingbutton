@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/sialcasa/angular2-xingbutton/issues"
   },
-  "homepage": "https://github.com/jhades/angular2-library-seed#readme",
+  "homepage": "https://github.com/sialcasa/angular2-xingbutton/",
   "devDependencies": {
     "typescript": "^1.7.5",
     "es6-promise": "^3.0.2",
