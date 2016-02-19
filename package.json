@@ -1,6 +1,6 @@
 {
   "name": "xing-login",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A component for login with xing.",
   "main": "xing-button.js",
   "scripts": {
