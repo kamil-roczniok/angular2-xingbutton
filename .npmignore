@@ -1,3 +1,5 @@
 examples
 node_modules
 src
+.idea
+README.md
