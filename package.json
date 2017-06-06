@@ -1,5 +1,5 @@
 {
-  "name": "xing-login",
+  "name": "xing-login-angular2",
   "version": "1.1.0",
   "description": "A component for login with xing.",
   "main": "xing-button.js",
