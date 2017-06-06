@@ -17,15 +17,15 @@
  * limitations under the License.
  *
  */
-import {Component} from 'angular2/core';
-import {Input} from 'angular2/core';
-import {AfterViewInit} from 'angular2/core';
-import {ElementRef} from 'angular2/core';
-import {HostBinding} from 'angular2/core';
-import {HostListener} from 'angular2/core';
-import {Directive} from 'angular2/core';
-import {EventEmitter} from 'angular2/core';
-import {Output} from 'angular2/core';
+import {Component} from '@angular/core';
+import {Input} from '@angular/core';
+import {AfterViewInit} from '@angular/core';
+import {ElementRef} from '@angular/core';
+import {HostBinding} from '@angular/core';
+import {HostListener} from '@angular/core';
+import {Directive} from '@angular/core';
+import {EventEmitter} from '@angular/core';
+import {Output} from '@angular/core';
 
 @Directive({
     selector: 'xing-login'
