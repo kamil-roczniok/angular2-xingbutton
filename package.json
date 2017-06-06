@@ -9,20 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sialcasa/angular2-xingbutton.git"
+    "url": "git+https://github.com/kamil-roczniok/angular2-xingbutton.git"
   },
   "keywords": [
-    "Angular",
-    "2",
+    "Angular 2",
     "Xing",
     "login"
   ],
   "author": "alexander.casall@saxsys.de",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/sialcasa/angular2-xingbutton/issues"
+    "url": "https://github.com/kamil-roczniok/angular2-xingbutton/issues"
   },
-  "homepage": "https://github.com/sialcasa/angular2-xingbutton/",
+  "homepage": "https://github.com/kamil-roczniok/angular2-xingbutton/",
   "devDependencies": {
     "typescript": "^1.7.5"
   },
